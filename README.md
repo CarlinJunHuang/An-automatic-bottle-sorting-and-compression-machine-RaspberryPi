@@ -27,7 +27,7 @@ PS: The sensors mentioned in 7 and 8 can be purchased by yourself or made by ref
 In addition, you may need some mechanical mechanism that can complete the given motion. Some of the main mechanisms I use are: screw lifting platform, slider platform and so on.
 
 # References
-In order to accomplish the goal of this final project, I looked up a lot of information on the Internet. Thanks all on the network selfless dedication of their knowledge people!
+In order to accomplish the goal of this final project, I looked up a lot of information on the Internet. Thanks all the kind ppl on the network for selfless dedication of their knowledge!
 
 Followings are some of the most important references that have inspired me the most. I hope it also works for you!
 
