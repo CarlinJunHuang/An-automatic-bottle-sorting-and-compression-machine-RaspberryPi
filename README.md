@@ -1,5 +1,5 @@
 # SDM242_Group5
-2022 Fall SDM242 @Prof.Xiaoping Hong
+2022 Fall SDM242 @Prof. Xiaoping Hong
 # Background
 This is the Github page of the fifth group in SDM242, Fall semester 2022.
 
