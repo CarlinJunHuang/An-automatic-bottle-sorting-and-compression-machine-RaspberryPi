@@ -16,7 +16,7 @@ If you want to replicate the functionality of the prototype we've done, you may 
 2. Raspberry PI;
 3. 86 stepper motor with torque of at least 4Nm;
 4. DMA860H drive;
-5. Any 42 step motor;
+5. Any 42 stepper motor;
 6. TB6600 drive;
 7. Infrared sensor;
 8. Inductive proximity switch;
