@@ -3,9 +3,9 @@
 # Background
 This is the Github page of the fifth group in SDM242, Fall semester 2022.
 
-The code in this home page covers the use of infrared sensors, inductance proximity switches, programmable LED light strips, electronic pulse handwheels, Raspberry PI stepper motors, 42 stepper motors, and 86 stepper motors.
+The code in this home page covers the use of infrared sensors, inductive proximity switches, programmable LED light strips, electronic pulser handwheels, Raspberry PI stepper motors, 42 stepper motors, and 86 stepper motors.
 
-These are the components and solutions we used/tried to use in the big project "Visual beverage bottle sorting Compressor" in the semester.
+These are the components and solutions we used/tried to use in the big project "Visual Beverage Bottle Sorting Compressor" in the semester.
 
 See folder "Final_Program" for the whole final program.
 
@@ -22,12 +22,12 @@ If you want to replicate the functionality of the prototype we've done, you may 
 8. Inductive proximity switch;
 9. And... Maybe a computer is needed.
 
-PS: The sensors mentioned in section 7 and 8 can be purchased by yourself or made by referring to the samples in the "PCB" folder.
+PS: The sensors mentioned in 7 and 8 can be purchased by yourself or made by referring to the samples in the "PCB" folder.
 
 In addition, you may need some mechanical mechanism that can complete the given motion. Some of the main mechanisms I use are: screw lifting platform, slider platform and so on.
 
 # References
-In order to accomplish the goal of this big project, I looked up a lot of information on the Internet. Thank you all on the network selfless dedication of their knowledge people!
+In order to accomplish the goal of this final project, I looked up a lot of information on the Internet. Thanks all on the network selfless dedication of their knowledge people!
 
 Followings are some of the most important references that have inspired me the most. I hope it also works for you!
 
@@ -67,4 +67,5 @@ motor-using-python-and-a-raspberry-pi-11f67d5a8d6d.
 [17]"如何使用TDA0161接近开关芯片制作一个金属探测器,"   Enroo, http://www.enroo.com/support/category1/dpjrmzs/41394529.html.
 
 Today is 2022/12/31
-Wish you a Happy New Year!
+
+And Wish you a Happy New Year!
