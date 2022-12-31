@@ -7,7 +7,7 @@ The code in this home page covers the use of infrared sensors, inductance proxim
 
 These are the components and solutions we used/tried to use in the big project "Visual beverage bottle sorting Compressor" in the semester.
 
-See folder "Final_Program" for the final total program.
+See folder "Final_Program" for the whole final program.
 
 # Details
 If you want to replicate the functionality of the prototype we've done, you may need to use some of the following (recommended) components:
